@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# foodie_hub
+Simple react app to order foods from a restaurant
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
